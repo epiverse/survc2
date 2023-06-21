@@ -1,0 +1,68 @@
+code, .name-method {
+    font-family: Consolas, Monaco, 'Andale Mono', monospace;
+}
+
+.name-method{
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+.area-properties{
+    border: 1px solid #4a2ded;
+    padding: 
+}
+
+.content-internal{
+    padding: 5px 15px;
+}
+
+.details-title {
+    margin-top: 14px;
+    border-left: 4px solid #4a2ded;
+    background-color: #d6d7dd;
+    border-radius: 0px 18px 18px 0px;
+    padding: 5px 10px 5px;
+    display: inline-block;
+}
+
+table {
+    border-spacing: 0;
+    border: 0;
+    border-collapse: collapse;
+}
+
+thead th{
+    background-color: #ddd;
+    font-weight: bold;
+}
+
+th {
+    border-right: 1px solid #aaa;
+}
+
+td, th {
+    border: 1px solid #ddd;
+    margin: 0px;
+    text-align: left;
+    vertical-align: top;
+    padding: 4px 6px;
+    display: table-cell;
+}
+
+.paramsList thead th{
+    background-color: #95aee7;
+    
+}
+
+.paramsList td{
+    border: 1px solid #746b6b;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a, a:visited, a:active {
+    color: #0095dd;
+    text-decoration: none;
+}
