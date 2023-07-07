@@ -1,3 +1,9 @@
+if( location.hash.indexOf('doc')!=-1 ){
+    var el = document.querySelector('#documentation-tab')
+    var tab = new bootstrap.Tab(el);
+    tab.show()
+}
+
  var obj = null
                     var info_sections = null
                     var nav = null
