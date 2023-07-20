@@ -1,5 +1,5 @@
 # SurvC2
-SurvC2 – a web computing library for FAIR cancer surveillance prompt engineering
+SurvC2 - comparing language models for cancer surveillance FAIR tooling
 
 Live at: https://epiverse.github.io/survc2/
 
