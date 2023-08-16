@@ -1,0 +1,32 @@
+question,section,method,class,best similarity with gold answer
+Which agent is discussed in this monograph?,Evidence synthesis for cancer in humans,bert,valid,0.70
+Which agent is discussed in this monograph?,Evidence synthesis for cancer in humans,wink,valid,0.39
+Which agent is discussed in this monograph?,Evidence synthesis for cancer in humans,gpt,valid,0.22
+What is Opium consumption?,EXPOSURE CHARACTERIZATION,bert,no answer,0
+What is Opium consumption?,EXPOSURE CHARACTERIZATION,wink,valid,0.54
+What is Opium consumption?,EXPOSURE CHARACTERIZATION,gpt,valid,0.39
+How is Opium consumption used?,SUMMARY OF DATA REPORTED,bert,no answer,0
+How is Opium consumption used?,SUMMARY OF DATA REPORTED,wink,valid,0.49
+How is Opium consumption used?,SUMMARY OF DATA REPORTED,gpt,valid,0.36
+List the carcinogenic characteristics found.,EVALUATION AND RATIONALE,bert,no answer,0
+List the carcinogenic characteristics found.,EVALUATION AND RATIONALE,wink,valid,0.42
+List the carcinogenic characteristics found.,EVALUATION AND RATIONALE,gpt,valid,0.24
+What is the overall evaluation for each cancer site?,RATIONALE,bert,no answer,0
+What is the overall evaluation for each cancer site?,RATIONALE,wink,valid,0.60
+What is the overall evaluation for each cancer site?,RATIONALE,gpt,valid,0.42
+Is there evidence for the carcinogenicity of Opium consumption in animal systems?,EVALUATION AND RATIONALE,bert,valid,0.39
+Is there evidence for the carcinogenicity of Opium consumption in animal systems?,EVALUATION AND RATIONALE,wink,valid,0.82
+Is there evidence for the carcinogenicity of Opium consumption in animal systems?,EVALUATION AND RATIONALE,gpt,valid,0.73
+Is there evidence for the carcinogenicity of Opium consumption in experimental systems?,EVALUATION AND RATIONALE,bert,no answer,0
+Is there evidence for the carcinogenicity of Opium consumption in experimental systems?,EVALUATION AND RATIONALE,wink,valid,0.91
+Is there evidence for the carcinogenicity of Opium consumption in experimental systems?,EVALUATION AND RATIONALE,gpt,valid,0.86
+List the most important study included in this monograph.,CANCER IN HUMANS,bert,no answer,0
+List the most important study included in this monograph.,CANCER IN HUMANS,wink,valid,0.15
+List the most important study included in this monograph.,CANCER IN HUMANS,gpt,valid,0.22
+List the most important limitations of the studies on humans included in this monograph.,Evidence synthesis for cancer in humans,bert,valid,0.49
+List the most important limitations of the studies on humans included in this monograph.,Evidence synthesis for cancer in humans,wink,valid,0.57
+List the most important limitations of the studies on humans included in this monograph.,Evidence synthesis for cancer in humans,gpt,valid,0.32
+How many case-control studies in humans are included in this monograph?,A GENERAL PRINCIPLES AND PROCEDURES,bert,no answer,0
+How many case-control studies in humans are included in this monograph?,A GENERAL PRINCIPLES AND PROCEDURES,wink,out of context,0
+How many case-control studies in humans are included in this monograph?,A GENERAL PRINCIPLES AND PROCEDURES,gpt,out of context,0
+
