@@ -9,7 +9,7 @@ if( location.hash.indexOf('doc')!=-1 ){
                     var nav = null
                     
                     var set_keygpt = () => {
-                        var key = (localStorage.GPT_API_key==null) ? keygpt.value : localStorage.GPT_API_key
+                        var key = (localStorage.GPT_API_key==null || localStorage.GPT_API_key=="none") ? keygpt.value : localStorage.GPT_API_key
                         
                         if(key==''){
                             key='none'
