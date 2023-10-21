@@ -166,7 +166,8 @@ survc2.init_nlp = async () => {
 * let v = await survc2.loadMonograph('https://publications.survc2.fr/_publications/media/download/5409/5f12a3cfc6a2291b8dca418b2d322642ccb8f0fc.pdf')
 */
 survc2.loadMonograph = async function(link){
-    link = 'https://corsproxy.io/?' + encodeURIComponent(link)
+    //link = 'https://corsproxy.io/?' + encodeURIComponent(link)
+    //link = 'https://api.allorigins.win/get?url=' + encodeURIComponent(link)
     
     pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.5.141/pdf.worker.min.js';
     

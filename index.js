@@ -74,6 +74,8 @@ if( location.hash.indexOf('doc')!=-1 ){
                             console.log(obj)
                             
                             var subs = ['Tobacco smoking', 'Opium consumption']
+                            obj.validated['Tobacco smoking'] = location.href.split('#')[0]+'example_monographs/tobacco_100E-BOOK.pdf'
+                            obj.validated['Opium consumption'] = location.href.split('#')[0]+'example_monographs/opium_Volume126-09062022.pdf'
                             
                             var calls = []
                             for(var k of subs){
