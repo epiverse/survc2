@@ -1,3 +1,5 @@
+<img role="button" tabindex="0" id="modal-656216153-trigger" aria-controls="modal-656216153" aria-expanded="false" class="doi-modal-trigger block m-0" src="https://zenodo.org/badge/DOI/10.5281/zenodo.10127352.svg" alt="DOI: 10.5281/zenodo.10127352">
+
 # SurvC2
 SurvC2 - comparing language models for cancer surveillance FAIR tooling
 
